@@ -1,0 +1,23 @@
+  
+ body {
+                background-image: url(snow.jpg);
+            }
+h2 {
+    font-size:30px;
+    color:darkblue;
+    
+}
+p{
+    font-size:20px;
+    color:darkblue
+}
+            table, th, td {
+                border: 1px solid black;
+                border-collapse: collapse;
+                font-size:20px;
+            }
+            a{
+                font-size:30px
+            }
+
+
